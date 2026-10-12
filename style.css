@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #201313;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 300px;
+    
+}
+.Header{
+    margin-top: 120px;
+    color: #FAFAF9;
+    font-family:"Cosmica, "Helvetica Neue", Helvetica, Arial, sans-serif";
+    font-size: 25px;
+    font-weight: 300;
+}
